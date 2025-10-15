@@ -6,6 +6,6 @@ print(s_list)
 try:
     i = s_list.index("love")
     s_list[i] = ("like")
-    print("ket qua: " + str(s_list))
+    print("ket qua: " + " ".join(s_list))
 except:
     print("khong tim thay tu love")

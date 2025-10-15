@@ -1,0 +1,5 @@
+chuoi = input("Nhập chuỗi, phân tách bằng dấu phẩy: ")
+danh_sach = chuoi.split(",")
+danh_sach.sort()
+ket_qua = ",".join(danh_sach)
+print("Chuỗi sau khi sắp xếp:", ket_qua)
