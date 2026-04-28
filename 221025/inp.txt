@@ -1,0 +1,5 @@
+SV01, Nguyễn Văn An, 9.0
+SV02, Trần Thị Bình, 7.2
+SV03, Lê Văn Cường, 6.3
+SV04, Phạm Thị Dung, 8.8
+SV05, Bùi Văn Em, 4.9

@@ -1,0 +1,3 @@
+Ma: B003, Ho ten: Nguyễn Văn A1, Tien thuoc: 5700, Phi ngay: 40, So ngay nam vien: 4
+Ma: B007, Ho ten: NgVanA, Tien thuoc: 500, Phi ngay: 200, So ngay nam vien: 10
+Ma: B009, Ho ten: Nguyễn Văn A5, Tien thuoc: 300, Phi ngay: 10, So ngay nam vien: 30
